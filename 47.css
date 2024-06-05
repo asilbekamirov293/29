@@ -1,0 +1,153 @@
+body {
+    background: linear-gradient(170deg, blue, magenta, magenta);
+}
+.box {
+    background-color: white;
+    width: 1500px;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px black;
+}
+.img {
+    position: relative;
+    bottom: 200px;  
+    left: 550px;
+    background-color: white;
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 50px blueviolet;
+}
+.name {
+    color: blueviolet;
+    margin-left: 570px;
+    position: relative;
+    top: -180px;
+    font-size: 50px;
+}
+.div {
+    display: flex;
+    font-size: 30px;
+    position: relative;
+    top: -250px;
+    left: -100px;
+}
+.a{
+    margin: 100px;
+    margin-left: 350px;
+}
+.b{
+    margin: 100px;
+}
+.c{
+    margin: 100px;
+}
+.d{
+    margin: 100px;
+}
+.name2 {
+    margin-left: 500px;
+    position: relative;
+    top: -180px;
+    font-size: 30px;
+}
+.locationicon {
+    font-size: 50px;
+}
+.location {
+    font-size: 30px;
+    position: relative;
+    top: -210px;
+    left: 600px;
+}
+.text {
+    position: relative;
+    top: -10px;
+}
+.icons {
+    font-size: 100px;
+    display: flex;
+    position: relative;
+    bottom: 250px;
+    left: 300px;
+}
+.facebook {
+    font-size: 120px;
+    position: relative;
+    top: -10px;
+}
+.twitter {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.instagram {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, blue, magenta);
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.be {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    font-size: 80px;
+    color: white;
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.github {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.spyder {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.link {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-right: 3opx;
+}
+.button1 {
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 80px;
+    position: relative;
+    right: 900px;
+    border-radius: 90px;
+    box-shadow: 0px 0px 10px gray;
+}
+.button2 {
+    background-color: red;
+    color: white;
+    width: 400px;
+    height: 80px;
+    position: relative;
+    right: 300px;
+    border-radius: 90px;
+    top: -125px;
+    box-shadow: 0px 0px 10px gray;
+}
+.buttons {
+    position: relative;
+    left: 50px;
+}
